@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/vinic/Documents/NetBeansProjects/SisBanco/src/br/com/SisBanco/view/IFSaque.java</file>
+            <file>file:/C:/Users/vinic/Documents/NetBeansProjects/SisBanco/src/br/com/SisBanco/view/IFConta.java</file>
+            <file>file:/C:/Users/vinic/Documents/NetBeansProjects/SisBanco/src/br/com/SisBanco/dao/ContaCorrenteDAO.java</file>
+            <file>file:/C:/Users/vinic/Documents/NetBeansProjects/SisBanco/src/br/com/SisBanco/dao/AgenciaDAO.java</file>
+            <file>file:/C:/Users/vinic/Documents/NetBeansProjects/SisBanco/src/br/com/SisBanco/exe/JFLogin.java</file>
+            <file>file:/C:/Users/vinic/Documents/NetBeansProjects/SisBanco/src/br/com/SisBanco/exe/JDSobre.java</file>
+            <file>file:/C:/Users/vinic/Documents/NetBeansProjects/SisBanco/src/br/com/SisBanco/view/JFPrincipal.java</file>
+            <file>file:/C:/Users/vinic/Documents/NetBeansProjects/SisBanco/src/br/com/SisBanco/dao/ContaDAO.java</file>
+            <file>file:/C:/Users/vinic/Documents/NetBeansProjects/SisBanco/src/br/com/SisBanco/view/IFTransferencia.java</file>
+            <file>file:/C:/Users/vinic/Documents/NetBeansProjects/SisBanco/src/br/com/SisBanco/view/IFCliente.java</file>
+            <file>file:/C:/Users/vinic/Documents/NetBeansProjects/SisBanco/src/br/com/SisBanco/accessories/ApModeloGrade.java</file>
+            <file>file:/C:/Users/vinic/Documents/NetBeansProjects/SisBanco/src/br/com/SisBanco/view/IFDeposito.java</file>
+            <file>file:/C:/Users/vinic/Documents/NetBeansProjects/SisBanco/src/br/com/SisBanco/view/IFSobre.java</file>
+            <file>file:/C:/Users/vinic/Documents/NetBeansProjects/SisBanco/src/br/com/SisBanco/beans/ContaPoupanca.java</file>
+            <file>file:/C:/Users/vinic/Documents/NetBeansProjects/SisBanco/src/br/com/SisBanco/beans/Conta.java</file>
+            <file>file:/C:/Users/vinic/Documents/NetBeansProjects/SisBanco/src/br/com/SisBanco/beans/Cliente.java</file>
+            <file>file:/C:/Users/vinic/Documents/NetBeansProjects/SisBanco/src/br/com/SisBanco/view/IFAgencia.java</file>
+            <file>file:/C:/Users/vinic/Documents/NetBeansProjects/SisBanco/src/br/com/SisBanco/exe/SisBanco.java</file>
+            <file>file:/C:/Users/vinic/Documents/NetBeansProjects/SisBanco/src/br/com/SisBanco/beans/ContaCorrente.java</file>
+            <file>file:/C:/Users/vinic/Documents/NetBeansProjects/SisBanco/src/br/com/SisBanco/dao/ClienteDAO.java</file>
+            <file>file:/C:/Users/vinic/Documents/NetBeansProjects/SisBanco/src/br/com/SisBanco/dao/ContaPoupancaDAO.java</file>
+            <file>file:/C:/Users/vinic/Documents/NetBeansProjects/SisBanco/src/br/com/SisBanco/accessories/DesktopImagem.java</file>
+            <file>file:/C:/Users/vinic/Documents/NetBeansProjects/SisBanco/src/br/com/SisBanco/beans/Agencia.java</file>
+            <file>file:/C:/Users/vinic/Documents/NetBeansProjects/SisBanco/src/br/com/SisBanco/accessories/SisBanco.sql</file>
+            <file>file:/C:/Users/vinic/Documents/NetBeansProjects/SisBanco/src/br/com/SisBanco/accessories/ConexaoSisbanco.java</file>
+        </group>
+    </open-files>
+</project-private>
